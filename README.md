@@ -5,8 +5,7 @@ Developer
 ---------
 
 *   🌍  I'm based in Valencia, Spain
-*   🚀  I'm currently working on [Novelty](http://novelty.com)
-*   🧠  I'm learning Python, GraphQL, Vitest
+*   🧠  I'm learning Python, GraphQL, React
 
 ### Skills
 
