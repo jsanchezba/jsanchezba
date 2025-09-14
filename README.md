@@ -5,7 +5,7 @@ Developer
 ---------
 
 *   🌍  I'm based in Valencia, Spain
-*   🧠  I'm learning Python, GraphQL, React
+*   🧠  I'm learning Rust, C#
 
 ### Skills
 
